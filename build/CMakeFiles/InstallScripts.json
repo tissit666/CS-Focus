@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Tis/Desktop/csgo/build/cmake_install.cmake",
+		"C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/cmake_install.cmake",
+		"C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/cmake_install.cmake",
+		"C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src/cmake_install.cmake",
+		"C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build/cmake_install.cmake",
+		"C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build/cmake_install.cmake",
+		"C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/modules/cmake_install.cmake",
+		"C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/modules/keyboard/cmake_install.cmake",
+		"C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/modules/serial/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

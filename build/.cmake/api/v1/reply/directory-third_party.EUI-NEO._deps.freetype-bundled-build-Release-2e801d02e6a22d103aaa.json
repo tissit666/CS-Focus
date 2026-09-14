@@ -1,0 +1,19 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "third_party/EUI-NEO/_deps/freetype-bundled-build",
+		"source" : "third_party/EUI-NEO/3rd/freetype"
+	}
+}

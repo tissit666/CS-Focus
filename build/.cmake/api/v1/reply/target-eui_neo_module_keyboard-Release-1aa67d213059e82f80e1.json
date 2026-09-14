@@ -1,0 +1,62 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"third_party/EUI-NEO/modules/keyboard/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "eui_neo_module_keyboard::@b726a1017dba301a0174",
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "eui_neo::@467a217ef1e9af4930e7"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "eui_neo::@467a217ef1e9af4930e7"
+		}
+	],
+	"name" : "eui_neo_module_keyboard",
+	"paths" : 
+	{
+		"build" : "third_party/EUI-NEO/modules/keyboard",
+		"source" : "third_party/EUI-NEO/modules/keyboard"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

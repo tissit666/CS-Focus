@@ -1,0 +1,3 @@
+F:\Coding\cmake\bin\cmake.exe -E rm -f CMakeFiles\cs2_focus_guard.dir/objects.a
+F:\Coding\mingw64\mingw64\bin\ar.exe qc CMakeFiles\cs2_focus_guard.dir/objects.a @CMakeFiles\cs2_focus_guard.dir\objects1.rsp
+F:\Coding\mingw64\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--gc-sections -s -mwindows -static -Wl,--whole-archive CMakeFiles\cs2_focus_guard.dir/objects.a -Wl,--no-whole-archive -o cs2_focus_guard.exe -Wl,--out-implib,libcs2_focus_guard.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cs2_focus_guard.dir\linkLibs.rsp

@@ -1,0 +1,436 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "OpenGL::GL::@467a217ef1e9af4930e7",
+					"jsonFile" : "target-OpenGL__GL-Release-1b18c9143da7caef9a73.json",
+					"name" : "OpenGL::GL",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "OpenGL::GLU::@467a217ef1e9af4930e7",
+					"jsonFile" : "target-OpenGL__GLU-Release-93a50247eeaf1500ada3.json",
+					"name" : "OpenGL::GLU",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Python3::Interpreter::@467a217ef1e9af4930e7",
+					"jsonFile" : "target-Python3__Interpreter-Release-56e87bfd8715b41407b4.json",
+					"name" : "Python3::Interpreter",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Python3::InterpreterMultiConfig::@467a217ef1e9af4930e7",
+					"jsonFile" : "target-Python3__InterpreterMultiConfig-Release-e7cfcbefa4e8ebb2c973.json",
+					"name" : "Python3::InterpreterMultiConfig",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Threads::Threads::@125351e9f01f4b89bd8c",
+					"jsonFile" : "target-Threads__Threads-Release-aa4741df1ad7fb3803af.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Threads::Threads::@467a217ef1e9af4930e7",
+					"jsonFile" : "target-Threads__Threads-Release-b8d2b6925eda8700623b.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "eui_neo_module_keyboard::@b726a1017dba301a0174",
+					"jsonFile" : "target-eui_neo_module_keyboard-Release-1aa67d213059e82f80e1.json",
+					"name" : "eui_neo_module_keyboard",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "freetype-interface::@7e186e4799ee4fd50260",
+					"jsonFile" : "target-freetype-interface-Release-ac66d5fcc346b4b73471.json",
+					"name" : "freetype-interface",
+					"projectIndex" : 4
+				}
+			],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Release-b5805d5c08fd3d92def4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5
+					],
+					"build" : "third_party/EUI-NEO",
+					"childIndexes" : 
+					[
+						2,
+						4,
+						5,
+						6
+					],
+					"jsonFile" : "directory-third_party.EUI-NEO-Release-229b156c22ca8be663fc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "third_party/EUI-NEO",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						5,
+						7
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						4
+					],
+					"build" : "third_party/EUI-NEO/_deps/glfw-bundled-build",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-third_party.EUI-NEO._deps.glfw-bundled-build-Release-eae3d0216900b32afc2e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "third_party/EUI-NEO/3rd/glfw"
+				},
+				{
+					"build" : "third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+					"jsonFile" : "directory-third_party.EUI-NEO._deps.glfw-bundled-build.src-Release-2f1dfbd4e4a2e1d92f02.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "third_party/EUI-NEO/3rd/glfw/src",
+					"targetIndexes" : 
+					[
+						8,
+						11
+					]
+				},
+				{
+					"build" : "third_party/EUI-NEO/_deps/libpng-bundled-build",
+					"jsonFile" : "directory-third_party.EUI-NEO._deps.libpng-bundled-build-Release-6a8db2455d7a586f1ae3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "third_party/EUI-NEO/3rd/libpng-1.6.43",
+					"targetIndexes" : 
+					[
+						9,
+						10
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						7
+					],
+					"build" : "third_party/EUI-NEO/_deps/freetype-bundled-build",
+					"jsonFile" : "directory-third_party.EUI-NEO._deps.freetype-bundled-build-Release-2e801d02e6a22d103aaa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "third_party/EUI-NEO/3rd/freetype",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "third_party/EUI-NEO/modules",
+					"childIndexes" : 
+					[
+						7,
+						8
+					],
+					"jsonFile" : "directory-third_party.EUI-NEO.modules-Release-dc4279ad40d109158d19.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "third_party/EUI-NEO/modules"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						6
+					],
+					"build" : "third_party/EUI-NEO/modules/keyboard",
+					"jsonFile" : "directory-third_party.EUI-NEO.modules.keyboard-Release-15674a1f1549626e12e3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 1,
+					"source" : "third_party/EUI-NEO/modules/keyboard"
+				},
+				{
+					"build" : "third_party/EUI-NEO/modules/serial",
+					"jsonFile" : "directory-third_party.EUI-NEO.modules.serial-Release-71aae771b7ea6285fe6e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 1,
+					"source" : "third_party/EUI-NEO/modules/serial",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CS2FocusGuard",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6
+					],
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						6,
+						7,
+						8
+					],
+					"name" : "EUI-NEO",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						7
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						4
+					],
+					"directoryIndexes" : 
+					[
+						2,
+						3
+					],
+					"name" : "GLFW",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						8,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "libpng",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						9,
+						10
+					]
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						7
+					],
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "freetype",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cs2_focus_guard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cs2_focus_guard-Release-1e64686e225b6beaf791.json",
+					"name" : "cs2_focus_guard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "eui_check_vulkan_shaders::@467a217ef1e9af4930e7",
+					"jsonFile" : "target-eui_check_vulkan_shaders-Release-c044437c533e727239d5.json",
+					"name" : "eui_check_vulkan_shaders",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "eui_md4c::@467a217ef1e9af4930e7",
+					"jsonFile" : "target-eui_md4c-Release-0de1824d4593a28dcd48.json",
+					"name" : "eui_md4c",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "eui_neo::@467a217ef1e9af4930e7",
+					"jsonFile" : "target-eui_neo-Release-2fa6103c232bf95066d3.json",
+					"name" : "eui_neo",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "eui_neo_module_serial::@66fa8cc62ac271e5fb56",
+					"jsonFile" : "target-eui_neo_module_serial-Release-284ba618cb3d47851527.json",
+					"name" : "eui_neo_module_serial",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "eui_zlib::@467a217ef1e9af4930e7",
+					"jsonFile" : "target-eui_zlib-Release-bb5b7ee3987b5731585d.json",
+					"name" : "eui_zlib",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "freetype::@7e186e4799ee4fd50260",
+					"jsonFile" : "target-freetype-Release-732be637fca3cdfa8653.json",
+					"name" : "freetype",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "glad::@467a217ef1e9af4930e7",
+					"jsonFile" : "target-glad-Release-4148e79c65e6bae1cafb.json",
+					"name" : "glad",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "glfw::@8f63d92ca94b5a00e8d7",
+					"jsonFile" : "target-glfw-Release-a2dac7544f8d4c7edb2a.json",
+					"name" : "glfw",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "png_genfiles::@e6b273050ec8f5402320",
+					"jsonFile" : "target-png_genfiles-Release-50c50b3a1b83b3e36b2c.json",
+					"name" : "png_genfiles",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "png_static::@e6b273050ec8f5402320",
+					"jsonFile" : "target-png_static-Release-88b62f9a4d4f042d5d19.json",
+					"name" : "png_static",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "update_mappings::@8f63d92ca94b5a00e8d7",
+					"jsonFile" : "target-update_mappings-Release-f1a533c8dfe2b2b5bfa7.json",
+					"name" : "update_mappings",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Tis/Desktop/csgo/build",
+		"source" : "C:/Users/Tis/Desktop/csgo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}

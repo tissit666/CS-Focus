@@ -1,0 +1,758 @@
+[
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DUNICODE -DWIN32_LEAN_AND_MEAN -D_UNICODE @CMakeFiles\\cs2_focus_guard.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -finput-charset=UTF-8 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\cs2_focus_guard.dir\\src\\main.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\src\\main.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/src/main.cpp",
+  "output": "CMakeFiles/cs2_focus_guard.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DUNICODE -DWIN32_LEAN_AND_MEAN -D_UNICODE @CMakeFiles\\cs2_focus_guard.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -finput-charset=UTF-8 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\cs2_focus_guard.dir\\src\\process_monitor.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\src\\process_monitor.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/src/process_monitor.cpp",
+  "output": "CMakeFiles/cs2_focus_guard.dir/src/process_monitor.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DUNICODE -DWIN32_LEAN_AND_MEAN -D_UNICODE @CMakeFiles\\cs2_focus_guard.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -finput-charset=UTF-8 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\cs2_focus_guard.dir\\third_party\\EUI-NEO\\core\\app\\glfw_app_main.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\app\\glfw_app_main.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/app/glfw_app_main.cpp",
+  "output": "CMakeFiles/cs2_focus_guard.dir/third_party/EUI-NEO/core/app/glfw_app_main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\glad.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -o CMakeFiles\\glad.dir\\3rd\\glad\\src\\glad.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glad\\src\\glad.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glad/src/glad.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/glad.dir/3rd/glad/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\adler32.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\adler32.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/adler32.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/adler32.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\compress.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\compress.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/compress.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/compress.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\crc32.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\crc32.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/crc32.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/crc32.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\deflate.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\deflate.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/deflate.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/deflate.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\gzclose.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\gzclose.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/gzclose.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/gzclose.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\gzlib.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\gzlib.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/gzlib.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/gzlib.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\gzread.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\gzread.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/gzread.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/gzread.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\gzwrite.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\gzwrite.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/gzwrite.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/gzwrite.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\inflate.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\inflate.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/inflate.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/inflate.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\infback.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\infback.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/infback.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/infback.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\inftrees.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\inftrees.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/inftrees.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/inftrees.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\inffast.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\inffast.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/inffast.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/inffast.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\trees.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\trees.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/trees.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/trees.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\uncompr.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\uncompr.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/uncompr.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/uncompr.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_zlib.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_zlib.dir\\3rd\\zlib-1.3.1\\zutil.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\zlib-1.3.1\\zutil.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/zlib-1.3.1/zutil.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_zlib.dir/3rd/zlib-1.3.1/zutil.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe  @CMakeFiles\\eui_md4c.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\eui_md4c.dir\\3rd\\md4c\\src\\md4c.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\md4c\\src\\md4c.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/md4c/src/md4c.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_md4c.dir/3rd/md4c/src/md4c.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\platform\\async.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\platform\\async.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/platform/async.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/platform/async.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\platform\\json.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\platform\\json.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/platform/json.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/platform/json.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\platform\\network.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\platform\\network.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/platform/network.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/platform/network.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -o CMakeFiles\\eui_neo.dir\\core\\platform\\native_bridge.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\platform\\native_bridge.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/platform/native_bridge.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/platform/native_bridge.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\platform\\performance_stats.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\platform\\performance_stats.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/platform/performance_stats.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/platform/performance_stats.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\platform\\platform.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\platform\\platform.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/platform/platform.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/platform/platform.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\image.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\image.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/image.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/image.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\image_stream.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\image_stream.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/image_stream.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/image_stream.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\image_facade.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\image_facade.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/image_facade.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/image_facade.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\image_source.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\image_source.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/image_source.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/image_source.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\primitive.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\primitive.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/primitive.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/primitive.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\render_backend.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\render_backend.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/render_backend.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/render_backend.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\shadertoy.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\shadertoy.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/shadertoy.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/shadertoy.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\shadertoy_json.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\shadertoy_json.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/shadertoy_json.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/shadertoy_json.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\shadertoy_primitive.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\shadertoy_primitive.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/shadertoy_primitive.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/shadertoy_primitive.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\stb_image_impl.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\stb_image_impl.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/stb_image_impl.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/stb_image_impl.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\text.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\text.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/text.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/text.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -o CMakeFiles\\eui_neo.dir\\core\\platform\\tray_bridge.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\platform\\tray_bridge.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/platform/tray_bridge.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/platform/tray_bridge.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\window\\window_backend.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\window\\window_backend.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/window/window_backend.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/window/window_backend.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\window\\window_input_backend.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\window\\window_input_backend.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/window/window_input_backend.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/window/window_input_backend.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\opengl\\opengl_backend.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\opengl\\opengl_backend.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/opengl/opengl_backend.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/opengl/opengl_backend.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\opengl\\opengl_image.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\opengl\\opengl_image.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/opengl/opengl_image.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/opengl/opengl_image.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\opengl\\opengl_primitives.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\opengl\\opengl_primitives.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/opengl/opengl_primitives.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/opengl/opengl_primitives.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\opengl\\opengl_shadertoy.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\opengl\\opengl_shadertoy.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/opengl/opengl_shadertoy.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/opengl/opengl_shadertoy.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo.dir\\core\\render\\opengl\\opengl_text.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\render\\opengl\\opengl_text.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/render/opengl/opengl_text.cpp",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/render/opengl/opengl_text.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -o CMakeFiles\\eui_neo.dir\\core\\platform\\ime_bridge.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\core\\platform\\ime_bridge.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/core/platform/ime_bridge.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/core/platform/ime_bridge.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX -DYYJSON_DISABLE_WRITER=1 @CMakeFiles\\eui_neo.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -o CMakeFiles\\eui_neo.dir\\3rd\\yyjson-0.12.0\\src\\yyjson.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\yyjson-0.12.0\\src\\yyjson.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/yyjson-0.12.0/src/yyjson.c",
+  "output": "third_party/EUI-NEO/CMakeFiles/eui_neo.dir/3rd/yyjson-0.12.0/src/yyjson.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\context.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/context.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\init.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/init.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\input.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/input.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\monitor.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/monitor.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\platform.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\platform.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/platform.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\vulkan.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/vulkan.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\window.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/window.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\egl_context.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/egl_context.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\osmesa_context.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/osmesa_context.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_init.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\null_init.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/null_init.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_monitor.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\null_monitor.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/null_monitor.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_window.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\null_window.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/null_window.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_joystick.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\null_joystick.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/null_joystick.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_module.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\win32_module.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/win32_module.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\win32_time.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/win32_time.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\win32_thread.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/win32_thread.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\win32_init.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/win32_init.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\win32_joystick.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/win32_joystick.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\win32_monitor.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/win32_monitor.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\win32_window.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/win32_window.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/glfw-bundled-build/src",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles\\glfw.dir\\includes_C.rsp -O3 -DNDEBUG -std=c99 -Wall -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\glfw\\src\\wgl_context.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/glfw/src/wgl_context.c",
+  "output": "third_party/EUI-NEO/_deps/glfw-bundled-build/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\png.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\png.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/png.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/png.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngerror.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngerror.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngerror.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngerror.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngget.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngget.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngget.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngget.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngmem.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngmem.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngmem.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngmem.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngpread.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngpread.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngpread.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngpread.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngread.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngread.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngread.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngread.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngrio.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngrio.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngrio.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngrio.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngrtran.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngrtran.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngrtran.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngrtran.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngrutil.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngrutil.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngrutil.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngrutil.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngset.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngset.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngset.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngset.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngtrans.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngtrans.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngtrans.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngtrans.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngwio.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngwio.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngwio.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngwio.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngwrite.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngwrite.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngwrite.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngwrite.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngwtran.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngwtran.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngwtran.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngwtran.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/libpng-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DPNG_INTEL_SSE_OPT=0 @CMakeFiles\\png_static.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -w -o CMakeFiles\\png_static.dir\\pngwutil.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\libpng-1.6.43\\pngwutil.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/libpng-1.6.43/pngwutil.c",
+  "output": "third_party/EUI-NEO/_deps/libpng-bundled-build/CMakeFiles/png_static.dir/pngwutil.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\autofit\\autofit.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\autofit\\autofit.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/autofit/autofit.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/autofit/autofit.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftbase.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftbase.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftbase.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftbase.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftbbox.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftbbox.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftbbox.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftbbox.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftbdf.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftbdf.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftbdf.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftbdf.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftbitmap.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftbitmap.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftbitmap.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftbitmap.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftcid.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftcid.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftcid.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftcid.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftfstype.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftfstype.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftfstype.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftfstype.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftgasp.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftgasp.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftgasp.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftgasp.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftglyph.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftglyph.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftglyph.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftglyph.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftgxval.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftgxval.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftgxval.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftgxval.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftinit.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftinit.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftinit.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftinit.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftmm.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftmm.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftmm.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftmm.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftotval.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftotval.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftotval.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftotval.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftpatent.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftpatent.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftpatent.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftpatent.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftpfr.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftpfr.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftpfr.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftpfr.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftstroke.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftstroke.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftstroke.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftstroke.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftsynth.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftsynth.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftsynth.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftsynth.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\fttype1.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\fttype1.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/fttype1.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/fttype1.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\base\\ftwinfnt.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\base\\ftwinfnt.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/base/ftwinfnt.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/base/ftwinfnt.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\bdf\\bdf.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\bdf\\bdf.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/bdf/bdf.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/bdf/bdf.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\bzip2\\ftbzip2.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\bzip2\\ftbzip2.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/bzip2/ftbzip2.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\cache\\ftcache.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\cache\\ftcache.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/cache/ftcache.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/cache/ftcache.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\cff\\cff.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\cff\\cff.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/cff/cff.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/cff/cff.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\cid\\type1cid.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\cid\\type1cid.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/cid/type1cid.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/cid/type1cid.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\gzip\\ftgzip.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\gzip\\ftgzip.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/gzip/ftgzip.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/gzip/ftgzip.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\lzw\\ftlzw.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\lzw\\ftlzw.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/lzw/ftlzw.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/lzw/ftlzw.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\pcf\\pcf.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\pcf\\pcf.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/pcf/pcf.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/pcf/pcf.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\pfr\\pfr.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\pfr\\pfr.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/pfr/pfr.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/pfr/pfr.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\psaux\\psaux.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\psaux\\psaux.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/psaux/psaux.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/psaux/psaux.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\pshinter\\pshinter.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\pshinter\\pshinter.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/pshinter/pshinter.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/pshinter/pshinter.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\psnames\\psnames.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\psnames\\psnames.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/psnames/psnames.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/psnames/psnames.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\raster\\raster.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\raster\\raster.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/raster/raster.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/raster/raster.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\sdf\\sdf.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\sdf\\sdf.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/sdf/sdf.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/sdf/sdf.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\sfnt\\sfnt.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\sfnt\\sfnt.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/sfnt/sfnt.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/sfnt/sfnt.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\smooth\\smooth.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\smooth\\smooth.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/smooth/smooth.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/smooth/smooth.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\svg\\svg.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\svg\\svg.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/svg/svg.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/svg/svg.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\truetype\\truetype.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\truetype\\truetype.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/truetype/truetype.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/truetype/truetype.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\type1\\type1.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\type1\\type1.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/type1/type1.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/type1/type1.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\type42\\type42.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\type42\\type42.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/type42/type42.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/type42/type42.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\src\\winfonts\\winfnt.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\src\\winfonts\\winfnt.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/src/winfonts/winfnt.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/src/winfonts/winfnt.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\builds\\windows\\ftsystem.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\builds\\windows\\ftsystem.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/builds/windows/ftsystem.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/builds/windows/ftsystem.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/_deps/freetype-bundled-build",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -O3 -DNDEBUG -std=gnu99 -fvisibility=hidden -w -o CMakeFiles\\freetype.dir\\builds\\windows\\ftdebug.c.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\3rd\\freetype\\builds\\windows\\ftdebug.c",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/3rd/freetype/builds/windows/ftdebug.c",
+  "output": "third_party/EUI-NEO/_deps/freetype-bundled-build/CMakeFiles/freetype.dir/builds/windows/ftdebug.c.obj"
+},
+{
+  "directory": "C:/Users/Tis/Desktop/csgo/build/third_party/EUI-NEO/modules/serial",
+  "command": "F:\\Coding\\mingw64\\mingw64\\bin\\g++.exe -DEUI_HAS_MD4C=1 -DEUI_RENDER_BACKEND_OPENGL=1 -DEUI_TRAY_WINAPI=1 -DNOMINMAX @CMakeFiles\\eui_neo_module_serial.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Os -fno-exceptions -fno-rtti -o CMakeFiles\\eui_neo_module_serial.dir\\serial.cpp.obj -c C:\\Users\\Tis\\Desktop\\csgo\\third_party\\EUI-NEO\\modules\\serial\\serial.cpp",
+  "file": "C:/Users/Tis/Desktop/csgo/third_party/EUI-NEO/modules/serial/serial.cpp",
+  "output": "third_party/EUI-NEO/modules/serial/CMakeFiles/eui_neo_module_serial.dir/serial.cpp.obj"
+}
+]

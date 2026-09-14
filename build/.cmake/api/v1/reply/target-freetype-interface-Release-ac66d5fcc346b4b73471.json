@@ -1,0 +1,62 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"set_target_properties"
+		],
+		"files" : 
+		[
+			"third_party/EUI-NEO/3rd/freetype/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 516,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 517,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "freetype-interface::@7e186e4799ee4fd50260",
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "freetype::@7e186e4799ee4fd50260"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "freetype::@7e186e4799ee4fd50260"
+		}
+	],
+	"name" : "freetype-interface",
+	"paths" : 
+	{
+		"build" : "third_party/EUI-NEO/_deps/freetype-bundled-build",
+		"source" : "third_party/EUI-NEO/3rd/freetype"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

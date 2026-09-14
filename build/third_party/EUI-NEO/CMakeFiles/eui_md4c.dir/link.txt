@@ -1,0 +1,2 @@
+F:\Coding\mingw64\mingw64\bin\ar.exe qc libeui_md4c.a CMakeFiles/eui_md4c.dir/3rd/md4c/src/md4c.c.obj
+F:\Coding\mingw64\mingw64\bin\ranlib.exe libeui_md4c.a

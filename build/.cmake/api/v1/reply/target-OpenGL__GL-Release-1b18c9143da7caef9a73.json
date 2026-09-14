@@ -1,0 +1,67 @@
+{
+	"abstract" : true,
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"find_package",
+			"include"
+		],
+		"files" : 
+		[
+			"F:/Coding/cmake/share/cmake-4.4/Modules/FindOpenGL.cmake",
+			"third_party/EUI-NEO/3rd/dependencies.cmake",
+			"third_party/EUI-NEO/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 206,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 422,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 823,
+				"parent" : 4
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "OpenGL::GL::@467a217ef1e9af4930e7",
+	"imported" : true,
+	"local" : true,
+	"name" : "OpenGL::GL",
+	"paths" : 
+	{
+		"build" : "third_party/EUI-NEO",
+		"source" : "third_party/EUI-NEO"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

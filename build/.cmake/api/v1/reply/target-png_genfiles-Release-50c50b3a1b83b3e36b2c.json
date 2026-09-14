@@ -1,0 +1,40 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"third_party/EUI-NEO/3rd/libpng-1.6.43/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 371,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "png_genfiles::@e6b273050ec8f5402320",
+	"name" : "png_genfiles",
+	"paths" : 
+	{
+		"build" : "third_party/EUI-NEO/_deps/libpng-bundled-build",
+		"source" : "third_party/EUI-NEO/3rd/libpng-1.6.43"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

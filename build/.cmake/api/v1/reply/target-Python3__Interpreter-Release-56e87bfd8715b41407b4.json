@@ -1,0 +1,74 @@
+{
+	"abstract" : true,
+	"artifacts" : 
+	[
+		{
+			"path" : "C:/Users/Tis/Documents/ChatGPT/New/python.exe"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"include",
+			"find_package"
+		],
+		"files" : 
+		[
+			"F:/Coding/cmake/share/cmake-4.4/Modules/FindPython/Support.cmake",
+			"F:/Coding/cmake/share/cmake-4.4/Modules/FindPython3.cmake",
+			"third_party/EUI-NEO/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 208,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 699,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4433,
+				"parent" : 4
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"id" : "Python3::Interpreter::@467a217ef1e9af4930e7",
+	"imported" : true,
+	"local" : true,
+	"name" : "Python3::Interpreter",
+	"nameOnDisk" : "python.exe",
+	"paths" : 
+	{
+		"build" : "third_party/EUI-NEO",
+		"source" : "third_party/EUI-NEO"
+	},
+	"sources" : [],
+	"type" : "EXECUTABLE"
+}
